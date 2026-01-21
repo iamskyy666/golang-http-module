@@ -473,9 +473,7 @@ Frameworks like Gin, Fiber, Echo are **thin layers on top of `net/http`**.
 
 ---
 
-# 18. How We Should Learn This (My Advice)
-
-Given our background (MERN, Node, TS):
+# 18. How We Should Learn This
 
 **Step 1**
 Master:
